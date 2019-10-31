@@ -7,10 +7,7 @@ yarn install
 
 ### Start the server
 ```
-yarn dev
-```
-or
-```
+
 yarn start
 ```
 
