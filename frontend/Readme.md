@@ -9,3 +9,8 @@ yarn install
 ```
 yarn dev
 ```
+or
+```
+yarn start
+```
+
